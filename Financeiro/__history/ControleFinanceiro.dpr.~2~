@@ -1,0 +1,15 @@
+program ControleFinanceiro;
+
+uses
+  Vcl.Forms,
+  Financeiro in 'Financeiro.pas' {frmPagar},
+  uConexao in 'uConexao.pas' {frmConexao};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPagar, frmPagar);
+  Application.Run;
+end.

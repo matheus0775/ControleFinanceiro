@@ -1,0 +1,23 @@
+object frmConexao: TfrmConexao
+  Left = 0
+  Top = 0
+  Caption = 'Conex'#227'o'
+  ClientHeight = 316
+  ClientWidth = 369
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object Servidor: TFDConnection
+    Params.Strings = (
+      'Database=C:\dados\FINANCEIRO.FDB'
+      'User_Name=SYSDBA'
+      'Password=masterkey'
+      'DriverID=FB')
+    Left = 80
+    Top = 72
+  end
+end

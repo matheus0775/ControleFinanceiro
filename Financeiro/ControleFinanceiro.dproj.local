@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/01 18:28:23.000.438,=D:\projetos\Unit1.pas</Transaction>
+    <Transaction>2023/09/01 18:39:59.000.957,D:\projetos\Financeiro\Financeiro.pas=D:\projetos\Unit1.pas</Transaction>
+    <Transaction>2023/09/01 18:39:59.000.957,D:\projetos\Financeiro\Financeiro.dfm=D:\projetos\Unit1.dfm</Transaction>
+    <Transaction>2023/09/01 18:40:17.000.247,D:\projetos\ControleFinanceiro.dproj=D:\projetos\Project1.dproj</Transaction>
+    <Transaction>2023/09/01 18:42:33.000.866,=D:\projetos\Unit1.pas</Transaction>
+    <Transaction>2023/09/01 18:55:23.000.531,=D:\projetos\Unit1.pas</Transaction>
+    <Transaction>2023/09/01 19:04:55.000.037,D:\projetos\Financeiro\uConexao.pas=D:\projetos\Unit1.pas</Transaction>
+    <Transaction>2023/09/01 19:04:55.000.037,D:\projetos\Financeiro\uConexao.dfm=D:\projetos\Unit1.dfm</Transaction>
+    <Transaction>2023/09/01 19:09:10.000.035,D:\projetos\Financeiro\ControleFinanceiro.dproj=D:\projetos\ControleFinanceiro.dproj</Transaction>
+    <Transaction>2023/09/16 18:17:04.186,=D:\projetos\Financeiro\Unit1.pas</Transaction>
+    <Transaction>2023/09/16 18:19:35.169,D:\projetos\Financeiro\Conexao.dfm=D:\projetos\Financeiro\Unit1.dfm</Transaction>
+    <Transaction>2023/09/16 18:19:35.169,D:\projetos\Financeiro\Conexao.pas=D:\projetos\Financeiro\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
